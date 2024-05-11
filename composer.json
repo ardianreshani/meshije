@@ -1,0 +1,12 @@
+{
+    "name": "ardian/meshije.al",
+    "autoload": {
+        "psr-4": {
+            "Ardian\\MeshijeAl\\": "src/"
+        }
+    },
+    "require": {
+        "google/apiclient": "^2.15",
+        "facebook/graph-sdk": "^5.1"
+    }
+}
